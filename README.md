@@ -40,4 +40,4 @@ Based on industry standards and logical inferences, the following assumptions we
 - Bakers records the condition of each equipment monthly and may make an equipment malfunction report to the manager if there is malfunction of equipment. 
 - The manager will get notified if there is an equipment malfunction reported by the bakers and resolve it. 
 
-These assumptions form the foundation of the overall system architecture, ensuring all operations runs smoothly
+These assumptions form the foundation of the overall system architecture, ensuring all operations runs smoothly. 
