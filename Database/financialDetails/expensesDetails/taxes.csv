@@ -1,0 +1,13 @@
+date,category,name,amount,status,last updated
+2023-12-30,Sales Tax,"Sales Tax for December 2023",RM32.46,Paid,2023-12-01
+2023-12-30,Income Tax,"Income Tax for December 2023",RM2.73,Paid,2023-12-01
+2023-12-30,Payroll Tax,"Payroll Tax for December 2023",RM6.00,Paid,2023-12-01
+2024-01-30,Sales Tax,"Sales Tax for January 2024",RM37.94,Paid,2024-01-02
+2024-01-30,Income Tax,"Income Tax for January 2024",RM7.71,Paid,2024-01-02
+2024-01-30,Payroll Tax,"Payroll Tax for January 2024",RM6.00,Paid,2024-01-03
+2024-02-28,Sales Tax,"Sales Tax for February 2024",RM18.83,Paid,2024-02-01
+2024-02-28,Income Tax,"Income Tax for February 2024",RM2.30,Paid,2024-02-01
+2024-02-28,Payroll Tax,"Payroll Tax for February 2024",RM6.00,Paid,2024-02-01
+2024-09-30,Sales Tax,"Sales Tax for September 2024",RM10.41,Unpaid,2024-09-03
+2024-09-30,Income Tax,"Income Tax for September 2024",RM 3.15,Paid,2024-09-03
+2024-09-30,Payroll Tax,"Payroll Tax for September 2024",RM0.75,Unpaid,2024-09-04

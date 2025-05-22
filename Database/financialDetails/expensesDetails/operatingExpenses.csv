@@ -1,0 +1,10 @@
+date,category,name,amount,status
+2023-12-05,Rent,"Monthly Rent",RM700.00,Paid
+2024-01-10,Utilities,"Electricity Bill",RM50.00,Paid
+2024-01-10,Utilities,"Water Bill",RM20.00,Paid
+2024-01-10,Utilities,"Gas Bill",RM25.00,Paid
+2024-01-10,Maintenance,"Monthly Cleaning Service",RM40.00,Paid
+2024-09-07,Advertising,"Marketing Campaign",RM70.00,Unpaid
+2024-09-07,Advertising,"Social Media Ads",RM50.00,Unpaid
+2024-09-07,Maintenance,"Monthly Cleaning Service",RM40.00,Unpaid
+2024-09-07,Utilities,"Electricity Bill",RM50.00,Unpaid

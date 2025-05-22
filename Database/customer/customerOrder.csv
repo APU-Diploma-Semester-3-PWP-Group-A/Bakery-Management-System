@@ -1,0 +1,71 @@
+orderID,cartID,userID,orderCreatedDateTime,products,paymentMethod,logisticsServices,completionStatus
+OID001,CAID001,UID002,2023-12-01 06:40:00,[["RC006"-"Chocolate Chip Cookies"-15-7.5-112.5]-["RC001"-"Sourdough Bread"-10-12.0-120.0]],COD,delivery,completed
+OID002,CAID002,UID001,2023-12-01 16:22:00,[["RC004"-"Spinach and Feta Pie"-13-18.0-234.0]-["RC013"-"Lemon Tart"-12-16.0-192.0]-["RC014"-"Eclairs"-12-15.0-180.0]-["RC007"-"Oatmeal Raisin Cookies"-10-7.5-75.0]],COD,delivery,completed
+OID003,CAID003,UID004,2023-12-01 22:33:00,[["RC006"-"Chocolate Chip Cookies"-14-7.5-105.0]-["RC003"-"Focaccia"-9-10.0-90.0]-["RC002"-"Brioche"-10-15.0-150.0]-["RC011"-"Crème Brûlée"-5-18.0-90.0]],TNG,delivery,completed
+OID004,CAID004,UID004,2023-12-02 02:20:00,[["RC012"-"Macaron"-21-5.0-105.0]-["RC005"-"Quiche Lorraine"-9-20.0-180.0]],COD,pickup,completed
+OID005,CAID005,UID001,2023-12-02 10:00:00,[["RC010"-"Milk Pudding"-12-10.0-120.0]],COD,pickup,completed
+OID006,CAID006,UID003,2023-12-02 11:20:00,[["RC009"-"Chocolate Lava"-13-15.0-195.0]],TNG,delivery,completed
+OID007,CAID007,UID002,2023-12-02 12:54:00,[["RC002"-"Brioche"-10-15.0-150.0]-["RC007"-"Oatmeal Raisin Cookies"-18-7.5-135.0]-["RC015"-"Cheesecake"-9-18.0-162.0]],Online Banking,pickup,completed
+OID008,CAID008,UID002,2023-12-02 23:16:00,[["RC011"-"Crème Brûlée"-12-18.0-216.0]-["RC012"-"Macaron"-32-5.0-16.0]],TNG,delivery,completed
+OID009,CAID009,UID004,2023-12-03 05:45:00,[["RC004"-"Spinach and Feta Pie"-10-18.0-180.0]],TNG,delivery,completed
+OID010,CAID010,UID001,2023-12-03 16:23:00,[["RC005"-"Quiche Lorraine"-12-20.0-240.0]],COD,pickup,completed
+OID011,CAID011,UID002,2023-12-04 03:39:00,[["RC010"-"Milk Pudding"-13-10.0-130.0]-["RC008"-"Tiramisu"-12-20.0-240.0]-["RC012"-"Macaron"-21-5.0-105.0]],COD,delivery,completed
+OID012,CAID012,UID003,2023-12-04 11:26:00,[["RC001"-"Sourdough Bread"-6-12.0-72.0]-["RC002"-"Brioche"-9-15.0-135.0]-["RC005"-"Quiche Lorraine"-5-20.0-100.0]],TNG,delivery,completed
+OID013,CAID013,UID004,2023-12-04 20:33:00,[["RC001"-"Sourdough Bread"-10-12.0-120.0]-["RC013"-"Lemon Tart"-11-16.0-176.0]],Online Banking,delivery,completed
+OID014,CAID014,UID001,2023-12-05 07:26:00,[["RC005"-"Quiche Lorraine"-7-20.0-140.0]-["RC013"-"Lemon Tart"-10-16.0-160.0]],TNG,delivery,completed
+OID015,CAID015,UID004,2023-12-05 18:33:00,[["RC009"-"Chocolate Lava"-6-15.0-90.0]],COD,delivery,completed
+OID016,CAID016,UID003,2023-12-06 06:34:00,[["RC003"-"Focaccia"-15-10.0-150.0]-["RC014"-"Eclairs"-11-15.0-165.0]],Online Banking,delivery,completed
+OID017,CAID017,UID002,2023-12-06 15:30:00,[["RC007"-"Oatmeal Raisin Cookies"-18-7.5-135.0]],TNG,pickup,completed
+OID018,CAID018,UID001,2023-12-06 20:27:00,[["RC007"-"Oatmeal Raisin Cookies"-24-7.5-180.0]-["RC002"-"Brioche"-8-15.0-120.0]-["RC004"-"Spinach and Feta Pie"-8-18.0-144.0]],COD,delivery,completed
+OID019,CAID019,UID002,2023-12-06 23:01:00,[["RC015"-"Cheesecake"-6-18.0-108.0]-["RC007"-"Oatmeal Raisin Cookies"-20-7.5-150.0]-["RC005"-"Quiche Lorraine"-12-20.0-240.0]],COD,delivery,completed
+OID020,CAID020,UID001,2023-12-07 07:53:00,[["RC010"-"Milk Pudding"-17-10.0-170.0]-["RC007"-"Oatmeal Raisin Cookies"-20-7.5-150.0]-["RC012"-"Macaron"-35-5.0-175.0]-["RC014"-"Eclairs"-6-15.0-90.0]],TNG,pickup,completed
+OID021,CAID021,UID002,2024-01-01 01:48:00,[["RC008"-"Tiramisu"-10-20.0-200.0]-["RC013"-"Lemon Tart"-9-16.0-144.0]-["RC002"-"Brioche"-10-15.0-150.0]-["RC003"-"Focaccia"-7-10.0-70.0]],Online Banking,delivery,completed
+OID022,CAID022,UID003,2024-01-01 06:46:00,[["RC012"-"Macaron"-33-5.0-165.0]-["RC005"-"Quiche Lorraine"-10-20.0-200.0]-["RC004"-"Spinach and Feta Pie"-10-18.0-180.0]-["RC009"-"Chocolate Lava"-10-15.0-150.0]],TNG,delivery,completed
+OID023,CAID023,UID001,2024-01-01 08:57:00,[["RC012"-"Macaron"-25-5.0-125.0]-["RC004"-"Spinach and Feta Pie"-5-18.0-90.0]-["RC001"-"Sourdough Bread"-8-12.0-96.0]],COD,pickup,completed
+OID024,CAID024,UID002,2024-01-01 18:48:00,[["RC004"-"Spinach and Feta Pie"-8-18.0-144.0]-["RC015"-"Cheesecake"-10-18.0-180.0]-["RC002"-"Brioche"-8-15.0-120.0]],Online Banking,delivery,completed
+OID025,CAID025,UID001,2024-01-02 03:40:00,[["RC001"-"Sourdough Bread"-10-12.0-120.0]],COD,delivery,completed
+OID026,CAID026,UID002,2024-01-02 15:14:00,[["RC006"-"Chocolate Chip Cookies"-20-7.5-150.0]],TNG,pickup,completed
+OID027,CAID027,UID003,2024-01-02 23:05:00,[["RC012"-"Macaron"-30-5.0-150.0]-["RC009"-"Chocolate Lava"-10-15.0-150.0]],Online Banking,delivery,completed
+OID028,CAID028,UID001,2024-01-03 10:43:00,[["RC006"-"Chocolate Chip Cookies"-15-7.5-112.5]-["RC002"-"Brioche"-10-15.0-150.0]-["RC009"-"Chocolate Lava"-8-15.0-120.0]-["RC013"-"Lemon Tart"-10-16.0-160.0]],COD,pickup,completed
+OID029,CAID029,UID001,2024-01-03 23:38:00,[["RC008"-"Tiramisu"-10-20.0-200.0]],Online Banking,delivery,completed
+OID030,CAID030,UID001,2024-01-04 01:41:00,[["RC003"-"Focaccia"-10-10.0-100.0]-["RC007"-"Oatmeal Raisin Cookies"-13-7.5-97.5]-["RC006"-"Chocolate Chip Cookies"-16-7.5-120.0]-["RC010"-"Milk Pudding"-20-10.0-200.0]],Online Banking,delivery,completed
+OID031,CAID031,UID004,2024-01-04 14:23:00,[["RC012"-"Macaron"-20-5.0-100.0]-["RC014"-"Eclairs"-10-15.0-150.0]-["RC010"-"Milk Pudding"-15-10.0-150.0]],COD,pickup,completed
+OID032,CAID032,UID004,2024-01-04 18:11:00,[["RC001"-"Sourdough Bread"-9-12.0-108.0]-["RC013"-"Lemon Tart"-5-16.0-80.0]],COD,delivery,completed
+OID033,CAID033,UID003,2024-01-05 01:45:00,[["RC001"-"Sourdough Bread"-10-12.0-120.0]-["RC004"-"Spinach and Feta Pie"-13-18.0-234.0]-["RC002"-"Brioche"-12-15.0-180.0]],TNG,pickup,completed
+OID034,CAID034,UID004,2024-01-05 09:52:00,[["RC013"-"Lemon Tart"-9-16.0-144.0]-["RC005"-"Quiche Lorraine"-10-20.0-200.0]-["RC012"-"Macaron"-35-5.0-175.0]-["RC007"-"Oatmeal Raisin Cookies"-10-7.5-75.0]],COD,pickup,completed
+OID035,CAID035,UID001,2024-01-05 22:19:00,[["RC008"-"Tiramisu"-8-20.0-160.0]-["RC010"-"Milk Pudding"-12-10.0-120.0]-["RC005"-"Quiche Lorraine"-6-20.0-120.0]],TNG,delivery,completed
+OID036,CAID036,UID001,2024-01-06 03:20:00,[["RC009"-"Chocolate Lava"-6-15.0-90.0]],TNG,pickup,completed
+OID037,CAID037,UID003,2024-01-06 15:43:00,[["RC009"-"Chocolate Lava"-7-15.0-105.0]-["RC013"-"Lemon Tart"-8-16.0-128.0]-["RC014"-"Eclairs"-9-15.0-135.0]-["RC015"-"Cheesecake"-10-18.0-180.0]],Online Banking,pickup,completed
+OID038,CAID038,UID004,2024-01-06 23:57:00,[["RC011"-"Crème Brûlée"-8-18.0-144.0]-["RC012"-"Macaron"-20-5.0-100.0]-["RC014"-"Eclairs"-9-15.0-135.0]-["RC002"-"Brioche"-12-15.0-180.0]],COD,pickup,completed
+OID039,CAID039,UID001,2024-01-07 04:54:00,[["RC005"-"Quiche Lorraine"-9-20.0-180.0]-["RC012"-"Macaron"-30-5.0-150.0]],Online Banking,pickup,completed
+OID040,CAID040,UID001,2024-01-07 12:00:00,[["RC010"-"Milk Pudding"-10-10.0-100.0]],Online Banking,pickup,completed
+OID041,CAID041,UID004,2024-02-01 12:14:00,[["RC009"-"Chocolate Lava"-7-15.0-105.0]-["RC005"-"Quiche Lorraine"-6-20.0-120.0]-["RC002"-"Brioche"-5-15.0-75.0]-["RC011"-"Crème Brûlée"-7-18.0-126.0]],Online Banking,delivery,completed
+OID042,CAID042,UID002,2024-02-01 22:39:00,[["RC005"-"Quiche Lorraine"-5-20.0-100.0]-["RC014"-"Eclairs"-5-15.0-75.0]-["RC011"-"Crème Brûlée"-9-18.0-162.0]-["RC008"-"Tiramisu"-4-20.0-80.0]],COD,pickup,completed
+OID043,CAID043,UID004,2024-02-02 07:11:00,[["RC005"-"Quiche Lorraine"-1-20.0-20.0]-["RC008"-"Tiramisu"-8-20.0-160.0]],COD,pickup,completed
+OID044,CAID044,UID001,2024-02-02 19:08:00,[["RC001"-"Sourdough Bread"-1-12.0-12.0]-["RC011"-"Crème Brûlée"-5-18.0-90.0]-["RC003"-"Focaccia"-3-10.0-30.0]-["RC012"-"Macaron"-4-5.0-20.0]],TNG,pickup,completed
+OID045,CAID045,UID004,2024-02-03 00:49:00,[["RC005"-"Quiche Lorraine"-7-20.0-140.0]-["RC003"-"Focaccia"-4-10.0-40.0]-["RC008"-"Tiramisu"-2-20.0-40.0]],Online Banking,delivery,completed
+OID046,CAID046,UID004,2024-02-03 02:38:00,[["RC006"-"Chocolate Chip Cookies"-1-7.5-7.5]-["RC008"-"Tiramisu"-6-20.0-120.0]-["RC007"-"Oatmeal Raisin Cookies"-5-7.5-37.5]],TNG,delivery,completed
+OID047,CAID047,UID003,2024-02-03 10:30:00,[["RC005"-"Quiche Lorraine"-3-20.0-60.0]-["RC004"-"Spinach and Feta Pie"-1-18.0-18.0]-["RC002"-"Brioche"-1-15.0-15.0]-["RC003"-"Focaccia"-8-10.0-80.0]],TNG,pickup,completed
+OID048,CAID048,UID003,2024-02-03 19:48:00,[["RC001"-"Sourdough Bread"-1-12.0-12.0]-["RC005"-"Quiche Lorraine"-5-20.0-100.0]],TNG,pickup,completed
+OID049,CAID049,UID004,2024-02-04 03:23:00,[["RC013"-"Lemon Tart"-7-16.0-112.0]-["RC006"-"Chocolate Chip Cookies"-5-7.5-37.5]-["RC009"-"Chocolate Lava"-8-15.0-120.0]-["RC003"-"Focaccia"-2-10.0-20.0]],COD,delivery,completed
+OID050,CAID050,UID004,2024-02-04 09:14:00,[["RC001"-"Sourdough Bread"-4-12.0-48.0]-["RC015"-"Cheesecake"-1-18.0-18.0]-["RC008"-"Tiramisu"-6-20.0-120.0]],TNG,pickup,completed
+OID051,CAID051,UID003,2024-02-04 19:03:00,[["RC004"-"Spinach and Feta Pie"-4-18.0-72.0]],COD,delivery,completed
+OID052,CAID052,UID001,2024-02-05 05:11:00,[["RC010"-"Milk Pudding"-7-10.0-70.0]],TNG,delivery,completed
+OID053,CAID053,UID002,2024-02-05 07:57:00,[["RC001"-"Sourdough Bread"-4-12.0-48.0]-["RC010"-"Milk Pudding"-10-10.0-100.0]-["RC012"-"Macaron"-2-5.0-10.0]],TNG,pickup,completed
+OID054,CAID054,UID003,2024-02-05 12:45:00,[["RC003"-"Focaccia"-1-10.0-10.0]-["RC009"-"Chocolate Lava"-5-15.0-75.0]],Online Banking,pickup,completed
+OID055,CAID055,UID003,2024-02-05 20:01:00,[["RC001"-"Sourdough Bread"-7-12.0-84.0]-["RC006"-"Chocolate Chip Cookies"-6-7.5-45.0]-["RC012"-"Macaron"-10-5.0-50.0]],TNG,pickup,completed
+OID056,CAID056,UID002,2024-02-05 23:35:00,[["RC014"-"Eclairs"-4-15.0-60.0]-["RC015"-"Cheesecake"-5-18.0-90.0]],TNG,pickup,completed
+OID057,CAID057,UID001,2024-02-06 12:17:00,[["RC002"-"Brioche"-5-15.0-75.0]-["RC008"-"Tiramisu"-3-20.0-60.0]],Online Banking,delivery,completed
+OID058,CAID058,UID002,2024-02-06 13:26:00,[["RC013"-"Lemon Tart"-10-16.0-160.0]-["RC009"-"Chocolate Lava"-6-15.0-90.0]-["RC010"-"Milk Pudding"-2-10.0-20.0]-["RC012"-"Macaron"-1-5.0-5.0]],COD,pickup,completed
+OID059,CAID059,UID002,2024-02-06 22:56:00,[["RC010"-"Milk Pudding"-5-10.0-50.0]],TNG,delivery,completed
+OID060,CAID060,UID001,2024-02-07 02:22:00,[["RC008"-"Tiramisu"-9-20.0-180.0]-["RC012"-"Macaron"-4-5.0-20.0]-["RC015"-"Cheesecake"-4-18.0-72.0]],Online Banking,pickup,completed
+OID061,CAID061,UID003,2024-09-01 03:22:00,[["RC015"-"Cheesecake"-7-18.0-126.0]-["RC011"-"Crème Brûlée"-4-18.0-72.0]-["RC013"-"Lemon Tart"-2-16.0-32.0]],TNG,pickup,pending
+OID062,CAID062,UID003,2024-09-01 11:59:00,[["RC002"-"Brioche"-8-15.0-120.0]],Online Banking,delivery,pending
+OID063,CAID063,UID002,2024-09-01 13:35:00,[["RC010"-"Milk Pudding"-6-10.0-60.0]-["RC003"-"Focaccia"-8-10.0-80.0]-["RC008"-"Tiramisu"-5-20.0-100.0]],TNG,pickup,pending
+OID064,CAID064,UID004,2024-09-02 00:33:00,[["RC003"-"Focaccia"-10-10.0-100.0]-["RC009"-"Chocolate Lava"-9-15.0-135.0]-["RC006"-"Chocolate Chip Cookies"-4-7.5-30.0]],TNG,pickup,pending
+OID065,CAID065,UID004,2024-09-02 10:38:00,[["RC001"-"Sourdough Bread"-10-12.0-120.0]-["RC005"-"Quiche Lorraine"-9-20.0-180.0]],Online Banking,pickup,pending
+OID066,CAID066,UID003,2024-09-02 21:39:00,[["RC014"-"Eclairs"-9-15.0-135.0]-["RC009"-"Chocolate Lava"-7-15.0-105.0]-["RC002"-"Brioche"-6-15.0-90.0]],COD,pickup,pending
+OID067,CAID067,UID001,2024-09-03 10:08:00,[["RC013"-"Lemon Tart"-6-16.0-96.0]-["RC005"-"Quiche Lorraine"-10-20.0-200.0]-["RC010"-"Milk Pudding"-10-10.0-100.0]-["RC003"-"Focaccia"-2-10.0-20.0]],TNG,delivery,pending
+OID068,CAID068,UID001,2024-09-03 14:06:00,[["RC010"-"Milk Pudding"-3-10.0-30.0]-["RC014"-"Eclairs"-7-15.0-105.0]],COD,delivery,pending
+OID069,CAID069,UID001,2024-09-03 17:45:00,[["RC006"-"Chocolate Chip Cookies"-2-7.5-15.0]],Online Banking,delivery,pending
+OID070,CAID070,UID003,2024-09-04 04:57:00,[["RC006"-"Chocolate Chip Cookies"-4-7.5-30.0]],Online Banking,delivery,pending

@@ -1,0 +1,5 @@
+cartID,userID,cartName,creationDateTime,products
+CAID071,UID001,Weekend Sale,2024-07-05 14:23:45,[["RC001"-"Sourdough Bread"-2]-["RC002"-"Brioche"-1]]
+CAID074,UID001,Monthly Favorites,2024-08-01 09:15:30,[["RC003"-"Focaccia"-3]-["RC004"-"Spinach and Feta Pie"-2]]
+CAID073,UID002,New Arrivals,2024-07-20 11:45:10,[['RC006'-'Chocolate Chip Cookies'-4]-['RC007'-'Oatmeal Raisin Cookies'-6]]
+CAID075,UID003,Special Treats,2024-08-05 16:30:00,[['RC008'-'Tiramisu'-2]-['RC009'-'Chocolate Lava'-'4']]

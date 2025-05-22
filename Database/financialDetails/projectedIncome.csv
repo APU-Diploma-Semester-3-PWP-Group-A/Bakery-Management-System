@@ -1,0 +1,61 @@
+year,month,id,category,name,selling price,forecast sales volume,revenue
+2023,December,RC001,Bread,Sourdough Bread,RM12.00,30,RM360.00
+2023,December,RC002,Bread,Brioche,RM15.00,25,RM375.00
+2023,December,RC003,Bread,Focaccia,RM10.00,20,RM200.00
+2023,December,RC004,Savory Pastries,Spinach and Feta Pie,RM18.00,15,RM270.00
+2023,December,RC005,Savory Pastries,Quiche Lorraine,RM20.00,20,RM400.00
+2023,December,RC006,Cookies,Chocolate Chip Cookies,RM7.50,25,RM187.50
+2023,December,RC007,Cookies,Oatmeal Raisin Cookies,RM7.50,20,RM150.00
+2023,December,RC008,Desserts,Tiramisu,RM20.00,10,RM200.00
+2023,December,RC009,Desserts,Chocolate Lava,RM15.00,15,RM225.00
+2023,December,RC010,Desserts,Milk Pudding,RM10.00,20,RM200.00
+2023,December,RC011,Desserts,Crème Brûlée,RM18.00,15,RM270.00
+2023,December,RC012,Desserts,Macaron,RM5.00,30,RM150.00
+2023,December,RC013,Desserts,Lemon Tart,RM16.00,15,RM240.00
+2023,December,RC014,Desserts,Eclairs,RM14.00,10,RM140.00
+2023,December,RC015,Desserts,Cheesecake,RM18.00,15,RM270.00
+2024,January,RC001,Bread,Sourdough Bread,RM12.00,32,RM384.00
+2024,January,RC002,Bread,Brioche,RM15.00,28,RM420.00
+2024,January,RC003,Bread,Focaccia,RM10.00,22,RM220.00
+2024,January,RC004,Savory Pastries,Spinach and Feta Pie,RM18.00,17,RM306.00
+2024,January,RC005,Savory Pastries,Quiche Lorraine,RM20.00,22,RM440.00
+2024,January,RC006,Cookies,Chocolate Chip Cookies,RM7.50,28,RM210.00
+2024,January,RC007,Cookies,Oatmeal Raisin Cookies,RM7.50,24,RM180.00
+2024,January,RC008,Desserts,Tiramisu,RM20.00,12,RM240.00
+2024,January,RC009,Desserts,Chocolate Lava,RM15.00,18,RM270.00
+2024,January,RC010,Desserts,Milk Pudding,RM10.00,22,RM220.00
+2024,January,RC011,Desserts,Crème Brûlée,RM18.00,18,RM324.00
+2024,January,RC012,Desserts,Macaron,RM5.00,28,RM140.00
+2024,January,RC013,Desserts,Lemon Tart,RM16.00,18,RM288.00
+2024,January,RC014,Desserts,Eclairs,RM14.00,14,RM196.00
+2024,January,RC015,Desserts,Cheesecake,RM18.00,20,RM360.00
+2024,February,RC001,Bread,Sourdough Bread,RM12.00,35,RM420.00
+2024,February,RC002,Bread,Brioche,RM15.00,30,RM450.00
+2024,February,RC003,Bread,Focaccia,RM10.00,25,RM250.00
+2024,February,RC004,Savory Pastries,Spinach and Feta Pie,RM18.00,20,RM360.00
+2024,February,RC005,Savory Pastries,Quiche Lorraine,RM20.00,25,RM500.00
+2024,February,RC006,Cookies,Chocolate Chip Cookies,RM7.50,30,RM225.00
+2024,February,RC007,Cookies,Oatmeal Raisin Cookies,RM7.50,28,RM210.00
+2024,February,RC008,Desserts,Tiramisu,RM20.00,15,RM300.00
+2024,February,RC009,Desserts,Chocolate Lava,RM15.00,20,RM300.00
+2024,February,RC010,Desserts,Milk Pudding,RM10.00,25,RM250.00
+2024,February,RC011,Desserts,Crème Brûlée,RM18.00,20,RM360.00
+2024,February,RC012,Desserts,Macaron,RM5.00,25,RM125.00
+2024,February,RC013,Desserts,Lemon Tart,RM16.00,20,RM320.00
+2024,February,RC014,Desserts,Eclairs,RM14.00,15,RM210.00
+2024,February,RC015,Desserts,Cheesecake,RM18.00,22,RM396.00
+2024,September,RC001,Bread,Sourdough Bread,RM12.00,25,RM300.00
+2024,September,RC002,Bread,Brioche,RM15.00,20,RM300.00
+2024,September,RC003,Bread,Focaccia,RM10.00,30,RM300.00
+2024,September,RC004,Savory Pastries,Spinach and Feta Pie,RM18.00,18,RM324.00
+2024,September,RC005,Savory Pastries,Quiche Lorraine,RM20.00,22,RM440.00
+2024,September,RC006,Cookies,Chocolate Chip Cookies,RM7.50,30,RM225.00
+2024,September,RC007,Cookies,Oatmeal Raisin Cookies,RM7.50,25,RM187.50
+2024,September,RC008,Desserts,Tiramisu,RM20.00,18,RM360.00
+2024,September,RC009,Desserts,Chocolate Lava,RM15.00,22,RM330.00
+2024,September,RC010,Desserts,Milk Pudding,RM10.00,30,RM300.00
+2024,September,RC011,Desserts,Crème Brûlée,RM18.00,25,RM450.00
+2024,September,RC012,Desserts,Macaron,RM5.00,30,RM150.00
+2024,September,RC013,Desserts,Lemon Tart,RM16.00,22,RM352.00
+2024,September,RC014,Desserts,Eclairs,RM14.00,18,RM252.00
+2024,September,RC015,Desserts,Cheesecake,RM18.00,20,RM360.00

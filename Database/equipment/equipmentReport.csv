@@ -1,0 +1,33 @@
+reportID,date,eqid,bakerID,condition,comments
+R001,2023-12-25,E001,EMPB001,Good,Oven A is new and operational.
+R002,2023-12-25,E002,EMPB001,Good,Mixer B functioning properly.
+R003,2023-12-25,E003,EMPB001,Good,Refrigerator C cooling efficiently.
+R004,2023-12-25,E004,EMPB001,Good,Oven B heating up evenly.
+R005,2023-12-25,E005,EMPB001,Good,Blender D operating well.
+R006,2023-12-25,E006,EMPB001,Good,Dough Sheeter E has no issues.
+R007,2023-12-25,E007,EMPB001,Poor,Proofer F scheduled for maintenance soon.
+R008,2023-12-25,E008,EMPB001,Good,Stove G performing as expected.
+R009,2024-01-20,E001,EMPB002,Good,Oven A continues to work efficiently.
+R010,2024-01-20,E002,EMPB002,Good,Mixer B operating as expected.
+R011,2024-01-20,E003,EMPB002,Good,Refrigerator C cooling optimally.
+R012,2024-01-20,E004,EMPB002,Good,Oven B running smoothly.
+R013,2024-01-20,E005,EMPB002,Good,Blender D blending with no issues.
+R014,2024-01-20,E006,EMPB002,Good,Dough Sheeter E working properly.
+R015,2024-01-20,E007,EMPB002,Fair,Proofer F still requires minor maintenance.
+R016,2024-01-20,E008,EMPB002,Good,Stove G functioning without issues.
+R017,2024-02-28,E001,EMPB003,Good,Oven A in excellent condition.
+R018,2024-02-28,E002,EMPB003,Fair,Mixer B showing signs of wear but still functional.
+R019,2024-02-28,E003,EMPB003,Good,Refrigerator C operating smoothly.
+R020,2024-02-28,E004,EMPB003,Good,Oven B performing at full capacity.
+R021,2024-02-28,E005,EMPB003,Good,Blender D working without issues.
+R022,2024-02-28,E006,EMPB003,Good,Dough Sheeter E functioning normally.
+R023,2024-02-28,E007,EMPB003,Good,Proofer F back to optimal after maintenance.
+R024,2024-02-28,E008,EMPB003,Good,Stove G functioning as expected.
+R025,2024-09-29,E001,EMPB001,Good,Oven A showing no issues-operational.
+R026,2024-09-29,E002,EMPB001,Poor,Mixer B under maintenance.
+R027,2024-09-29,E003,EMPB001,Good,Refrigerator C cooling as expected.
+R028,2024-09-29,E004,EMPB001,Good,Oven B continues to function smoothly.
+R029,2024-09-29,E005,EMPB001,Good,Blender D is in excellent condition.
+R030,2024-09-29,E006,EMPB001,Good,Dough Sheeter E works well after maintenance.
+R031,2024-09-29,E007,EMPB001,Good,Proofer F operating at full capacity.
+R032,2024-09-29,E008,EMPB001,Good,Stove G performing without issues.

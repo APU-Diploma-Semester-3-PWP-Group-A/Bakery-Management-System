@@ -1,0 +1,130 @@
+date,category,name,quantity,amount,suppliers
+2023-12-01,Flour and Grains,Bread flour,25kg,RM30.00,ABC Flour Co.
+2023-12-01,Flour and Grains,All-purpose flour,30kg,RM35.00,ABC Flour Co.
+2023-12-01,Flour and Grains,Oats,5kg,RM25.00,Oats Supplies Ltd.
+2023-12-01,Nuts and Seeds,Almond flour,3kg,RM30.00,Nuts & More
+2023-12-01,Starter Culture,Sourdough starter,2kg,RM45.00,Starter Culture Co.
+2023-12-01,Sugars,White sugar,12kg,RM30.00,Sugar World
+2023-12-01,Sugars,Brown sugar,6kg,RM20.00,Sugar World
+2023-12-01,Sugars,Powdered sugar,4kg,RM15.00,Sugar World
+2023-12-01,Sugars,Granulated sugar,3kg,RM20.00,Sugar World
+2023-12-01,Sugars,Caramelizing sugar,1kg,RM8.00,Sugar World
+2023-12-01,Salt and Seasonings,Salt,2kg,RM6.00,Seasoning Masters
+2023-12-01,Leavening Agents,Yeast,500g,RM10.00,Baking Essentials
+2023-12-01,Leavening Agents,Baking soda,300g,RM5.00,Baking Essentials
+2023-12-01,Leavening Agents,Corn powder,500g,RM10.00,Baking Essentials
+2023-12-01,Dairy Products,Milk powder,2kg,RM15.00,Dairy Land
+2023-12-01,Dairy Products,Milk,30 liters,RM20.00,Dairy Land
+2023-12-01,Dairy Products,Whipping cream,20 liters,RM20.00,Dairy Delights
+2023-12-01,Dairy Products,Heavy cream,10 liters,RM25.00,Dairy Delights
+2023-12-01,Dairy Products,Butter,20kg,RM50.00,Butter King
+2023-12-01,Oils and Fats,Olive oil,5 liters,RM35.00,Olive Gold
+2023-12-01,Dairy Products,Cream cheese,8kg,RM40.00,Cheese Masters
+2023-12-01,Dairy Products,Mascarpone cheese,3kg,RM30.00,Cheese Masters
+2023-12-01,Dairy Products,Feta cheese,2.5kg,RM20.00,Cheese Masters
+2023-12-01,Dairy Products,Gruyere cheese,1.5kg,RM15.00,Artisan Cheeses
+2023-12-01,Dairy Products,Sour cream,3 liters,RM20.00,Artisan Cheeses
+2023-12-01,Proteins,Eggs,360 eggs,RM70.00,Fresh Eggs Co.
+2023-12-01,Extracts and Flavors,Vanilla extract,1 liter,RM20.00,Flavor Heaven
+2023-12-01,Extracts and Flavors,Vanilla bean,10 beans,RM18.00,Flavor Heaven
+2023-12-01,Extracts and Flavors,Rum,1 liter,RM25.00,Spirits Co.
+2023-12-01,Beverages,Brewed coffee,10 liters,RM20.00,Coffee Roasters
+2023-12-01,Extracts and Flavors,Lemon juice,2 liters,RM15.00,Citrus World
+2023-12-01,Extracts and Flavors,Lemon zest,20 lemons,RM10.00,Citrus World
+2023-12-01,Fruits and Nuts,Raisins,3kg,RM15.00,Fruitland Co.
+2023-12-01,Spices and Herbs,Cinnamon,300g,RM10.00,Spice Traders
+2023-12-01,Prepared Ingredients,Sponge fingers,20 packs,RM30.00,Prepared Goods Ltd.
+2023-12-01,Prepared Ingredients,Digestive biscuits,5kg,RM20.00,Prepared Goods Ltd.
+2023-12-01,Chocolate Products,Chocolate,15kg,RM50.00,Choco World
+2023-12-01,Prepared Ingredients,Cream filling,10 liters,RM60.00,Prepared Goods Ltd.
+2023-12-01,Chocolate Products,Chocolate glaze,5 liters,RM20.00,Choco World
+2023-12-01,Spices and Herbs,Rosemary,500g,RM10.00,Spice Traders
+2023-12-01,Vegetables,Onions,30 medium onions,RM25.00,Fresh Veggies Ltd.
+2023-12-01,Vegetables,Spinach,10kg,RM15.00,Fresh Veggies Ltd.
+2023-12-01,Prepared Ingredients,Filling of choice,4kg,RM20.00,Prepared Goods Ltd.
+2024-01-03,Flour and Grains,Bread flour,25kg,RM30.00,ABC Flour Co.
+2024-01-03,Flour and Grains,All-purpose flour,30kg,RM35.00,ABC Flour Co.
+2024-01-03,Flour and Grains,Oats,5kg,RM25.00,Oats Supplies Ltd.
+2024-01-03,Nuts and Seeds,Almond flour,3kg,RM30.00,Nuts & More
+2024-01-03,Starter Culture,Sourdough starter,2kg,RM45.00,Starter Culture Co.
+2024-01-03,Sugars,White Sugar,12kg,RM30.00,Sugar World
+2024-01-03,Sugars,Brown sugar,6kg,RM20.00,Sugar World
+2024-01-03,Sugars,Powdered sugar,4kg,RM15.00,Sugar World
+2024-01-03,Sugars,Granulated sugar,3kg,RM20.00,Sugar World
+2024-01-03,Sugars,Caramelizing sugar,1kg,RM8.00,Sugar World
+2024-01-03,Salt and Seasonings,Salt,2kg,RM6.00,Seasoning Masters
+2024-01-03,Leavening Agents,Yeast,500g,RM10.00,Baking Essentials
+2024-01-03,Leavening Agents,Baking soda,300g,RM5.00,Baking Essentials
+2024-01-03,Leavening Agents,Corn powder,500g,RM10.00,Baking Essentials
+2024-01-03,Dairy Products,Milk powder,2kg,RM15.00,Dairy Land
+2024-01-03,Dairy Products,Milk,30 liters,RM20.00,Dairy Land
+2024-01-03,Dairy Products,Whipping cream,20 liters,RM20.00,Dairy Delights
+2024-01-03,Dairy Products,Heavy cream,10 liters,RM25.00,Dairy Delights
+2024-01-03,Dairy Products,Butter,20kg,RM50.00,Butter King
+2024-01-03,Oils and Fats,Olive oil,5 liters,RM35.00,Olive Gold
+2024-01-03,Dairy Products,Cream cheese,8kg,RM40.00,Cheese Masters
+2024-01-03,Dairy Products,Mascarpone cheese,3kg,RM30.00,Cheese Masters
+2024-01-03,Dairy Products,Feta cheese,2.5kg,RM20.00,Cheese Masters
+2024-01-03,Dairy Products,Gruyere cheese,1.5kg,RM15.00,Artisan Cheeses
+2024-01-03,Dairy Products,Sour cream,3 liters,RM20.00,Artisan Cheeses
+2024-01-03,Proteins,Eggs,360 eggs,RM70.00,Fresh Eggs Co.
+2024-01-03,Extracts and Flavors,Vanilla extract,1 liter,RM20.00,Flavor Heaven
+2024-01-03,Extracts and Flavors,Vanilla bean,10 beans,RM18.00,Flavor Heaven
+2024-01-03,Extracts and Flavors,Rum,1 liter,RM25.00,Spirits Co.
+2024-01-03,Beverages,Brewed coffee,10 liters,RM20.00,Coffee Roasters
+2024-01-03,Extracts and Flavors,Lemon juice,2 liters,RM15.00,Citrus World
+2024-01-03,Extracts and Flavors,Lemon zest,20 lemons,RM10.00,Citrus World
+2024-01-03,Fruits and Nuts,Raisins,3kg,RM15.00,Fruitland Co.
+2024-01-03,Spices and Herbs,Cinnamon,300g,RM10.00,Spice Traders
+2024-01-03,Prepared Ingredients,Sponge fingers,20 packs,RM30.00,Prepared Goods Ltd.
+2024-01-03,Prepared Ingredients,Digestive biscuits,5kg,RM20.00,Prepared Goods Ltd.
+2024-01-03,Chocolate Products,Chocolate,15kg,RM50.00,Choco World
+2024-01-03,Prepared Ingredients,Cream filling,10 liters,RM60.00,Prepared Goods Ltd.
+2024-01-03,Chocolate Products,Chocolate glaze,5 liters,RM20.00,Choco World
+2024-01-03,Spices and Herbs,Rosemary,500g,RM10.00,Spice Traders
+2024-01-03,Vegetables,Onions,30 medium onions,RM25.00,Fresh Veggies Ltd.
+2024-01-03,Vegetables,Spinach,10kg,RM15.00,Fresh Veggies Ltd.
+2024-01-03,Prepared Ingredients,Filling of choice,4kg,RM20.00,Prepared Goods Ltd.
+2024-09-01,Flour and Grains,Bread flour,25kg,RM30.00,ABC Flour Co.
+2024-09-01,Flour and Grains,All-purpose flour,30kg,RM35.00,ABC Flour Co.
+2024-09-01,Flour and Grains,Oats,5kg,RM25.00,Oats Supplies Ltd.
+2024-09-01,Nuts and Seeds,Almond flour,3kg,RM30.00,Nuts & More
+2024-09-01,Starter Culture,Sourdough starter,2kg,RM45.00,Starter Culture Co.
+2024-09-01,Sugars,White sugar,12kg,RM30.00,Sugar World
+2024-09-01,Sugars,Brown sugar,6kg,RM20.00,Sugar World
+2024-09-01,Sugars,Powdered sugar,4kg,RM15.00,Sugar World
+2024-09-01,Sugars,Granulated sugar,3kg,RM20.00,Sugar World
+2024-09-01,Sugars,Caramelizing sugar,1kg,RM8.00,Sugar World
+2024-09-01,Salt and Seasonings,Salt,2kg,RM6.00,Seasoning Masters
+2024-09-01,Leavening Agents,Yeast,500g,RM10.00,Baking Essentials
+2024-09-01,Leavening Agents,Baking soda,300g,RM5.00,Baking Essentials
+2024-09-01,Leavening Agents,Corn powder,500g,RM10.00,Baking Essentials
+2024-09-01,Dairy Products,Milk powder,2kg,RM15.00,Dairy Land
+2024-09-01,Dairy Products,Milk,30 liters,RM20.00,Dairy Land
+2024-09-01,Dairy Products,Whipping cream,20 liters,RM20.00,Dairy Delights
+2024-09-01,Dairy Products,Heavy cream,10 liters,RM25.00,Dairy Delights
+2024-09-01,Dairy Products,Butter,20kg,RM50.00,Butter King
+2024-09-01,Oils and Fats,Olive oil,5 liters,RM35.00,Olive Gold
+2024-09-01,Dairy Products,Cream cheese,8kg,RM40.00,Cheese Masters
+2024-09-01,Dairy Products,Mascarpone cheese,3kg,RM30.00,Cheese Masters
+2024-09-01,Dairy Products,Feta cheese,2.5kg,RM20.00,Cheese Masters
+2024-09-01,Dairy Products,Gruyere cheese,1.5kg,RM15.00,Artisan Cheeses
+2024-09-01,Dairy Products,Sour cream,3 liters,RM20.00,Artisan Cheeses
+2024-09-01,Proteins,Eggs,360 eggs,RM70.00,Fresh Eggs Co.
+2024-09-01,Extracts and Flavors,Vanilla extract,1 liter,RM20.00,Flavor Heaven
+2024-09-01,Extracts and Flavors,Vanilla bean,10 beans,RM18.00,Flavor Heaven
+2024-09-01,Extracts and Flavors,Rum,1 liter,RM25.00,Spirits Co.
+2024-09-01,Beverages,Brewed coffee,10 liters,RM20.00,Coffee Roasters
+2024-09-01,Extracts and Flavors,Lemon juice,2 liters,RM15.00,Citrus World
+2024-09-01,Extracts and Flavors,Lemon zest,20 lemons,RM10.00,Citrus World
+2024-09-01,Fruits and Nuts,Raisins,3kg,RM15.00,Fruitland Co.
+2024-09-01,Spices and Herbs,Cinnamon,300g,RM10.00,Spice Traders
+2024-09-01,Prepared Ingredients,Sponge fingers,20 packs,RM30.00,Prepared Goods Ltd.
+2024-09-01,Prepared Ingredients,Digestive biscuits,5kg,RM20.00,Prepared Goods Ltd.
+2024-09-01,Chocolate Products,Chocolate,15kg,RM50.00,Choco World
+2024-09-01,Prepared Ingredients,Cream filling,10 liters,RM60.00,Prepared Goods Ltd.
+2024-09-01,Chocolate Products,Chocolate glaze,5 liters,RM20.00,Choco World
+2024-09-01,Spices and Herbs,Rosemary,500g,RM10.00,Spice Traders
+2024-09-01,Vegetables,Onions,30 medium onions,RM25.00,Fresh Veggies Ltd.
+2024-09-01,Vegetables,Spinach,10kg,RM15.00,Fresh Veggies Ltd.
+2024-09-01,Prepared Ingredients,Filling of choice,4kg,RM20.00,Prepared Goods Ltd.

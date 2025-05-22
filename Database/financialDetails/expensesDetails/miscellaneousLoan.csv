@@ -1,0 +1,16 @@
+date,category,name,amount,status
+2023-12-20,Loan Repayment,"Bank Loan Repayment",RM350.00,Paid
+2023-12-20,Equipment Lease,"Oven Lease",RM160.00,Paid
+2023-12-20,Equipment Lease,"Mixer Lease",RM140.00,Paid
+2023-12-20,Equipment Lease,"Refrigerator Lease",RM100.00,Paid
+2023-12-20,Equipment Lease,"Display Case Lease",RM100.00,Paid
+2024-01-28,Loan Repayment,"Bank Loan Repayment",RM350.00,Paid
+2024-01-28,Equipment Lease,"Oven Lease",RM160.00,Paid
+2024-01-28,Equipment Lease,"Mixer Lease",RM140.00,Paid
+2024-01-28,Equipment Lease,"Refrigerator Lease",RM100.00,Paid
+2024-01-28,Equipment Lease,"Display Case Lease",RM100.00,Paid
+2024-09-28,Loan Repayment,"Bank Loan Repayment",RM350.00,Unpaid
+2024-09-28,Equipment Lease,"Oven Lease",RM160.00,Unpaid
+2024-09-28,Equipment Lease,"Mixer Lease",RM140.00,Unpaid
+2024-09-28,Equipment Lease,"Refrigerator Lease",RM100.00,Unpaid
+2024-09-28,Equipment Lease,"Display Case Lease",RM100.00,Unpaid

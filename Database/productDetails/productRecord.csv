@@ -1,0 +1,6 @@
+id,name,production_datetime,production_quantity,product_specification,batch_num,expired_date
+RC001,Sourdough Bread,2024-09-01,50,Crusty bread with tangy flavor,B001,2024-10-01
+RC002,Brioche,2024-09-02,100,Soft and rich bread,B002,2024-10-05
+RC003,Focaccia,2024-09-03,75,Italian flatbread with olive oil and rosemary,B003,2024-10-06
+RC004,Spinach and Feta Pie,2024-09-04,60,Flaky pastry with savory filling,B004,2024-10-08
+RC005,Quiche Lorraine,2024-09-05,80,Savory pie with bacon and cheese,B005,2024-10-09

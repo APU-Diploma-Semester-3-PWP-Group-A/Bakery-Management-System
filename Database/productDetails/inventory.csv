@@ -1,0 +1,44 @@
+category,name,bought quantity,threshold quantity,available quantity
+Flour And Grains,Bread flour,25.0kg,10.0kg,20.0kg
+Flour And Grains,All-purpose flour,30.0kg,15.0kg,30.0kg
+Flour And Grains,Oats,5.0kg,2.0kg,10.0kg
+Nuts And Seeds,Almond flour,3.0kg,1.0kg,3.0kg
+Starter Culture,Sourdough starter,2.0kg,1.0kg,1.0kg
+Sugars,White sugar,12.0kg,5.0kg,12.0kg
+Sugars,Brown sugar,6.0kg,3.0kg,6.0kg
+Sugars,Powdered sugar,4.0kg,2.0kg,4.0kg
+Sugars,Granulated sugar,3.0kg,1.0kg,3.0kg
+Sugars,Caramelizing sugar,1.0kg,0.5kg,1.0kg
+Salt And Seasonings,Salt,2.0kg,0.5kg,1.9kg
+Leavening Agents,Yeast,500g,200g,500g
+Leavening Agents,Baking soda,300g,100g,300g
+Leavening Agents,Corn powder,500g,200g,500g
+Dairy Products,Milk powder,2.0kg,1.0kg,2.0kg
+Dairy Products,Milk,30.0 liters,15.0 liters,30.0 liters
+Dairy Products,Whipping cream,20.0 liters,10.0 liters,20.0 liters
+Dairy Products,Heavy cream,10.0 liters,5.0 liters,10.0 liters
+Dairy Products,Butter,20.0kg,10.0kg,18.0kg
+Oils And Fats,Olive oil,5.0 liters,2.0 liters,5.0 liters
+Dairy Products,Cream cheese,8.0kg,4.0kg,-2.0kg
+Dairy Products,Mascarpone cheese,3.0kg,1.0kg,3.0kg
+Dairy Products,Feta cheese,2.5kg,1.0kg,2.5kg
+Dairy Products,Gruyere cheese,1.5kg,0.5kg,1.5kg
+Dairy Products,Sour cream,3.0 liters,1.0 liter,-1.0 liters
+Proteins,Eggs,360 eggs,180 eggs,300.0 eggs
+Extracts And Flavors,Vanilla extract,1.0 liter, 0.5 liter,1.0 liter
+Extracts And Flavors,Vanilla bean,10 beans,5 beans,10 beans
+Extracts And Flavors,Rum,1.0 liter,0.5 liter,1.0 liter
+Beverages,Brewed coffee,10.0 liters,5.0 liters,10.0 liters
+Extracts And Flavors,Lemon juice,2.0 liters,1.0 liter,2.0 liters
+Extracts And Flavors,Lemon zest,20 lemons,10 lemons,20 lemons
+Fruits And Nuts,Raisins,3.0kg,1.0kg,3.0kg
+Spices And Herbs,Cinnamon,300g,150g,300g
+Prepared Ingredients,Sponge fingers,20 packs,10 packs,20 packs
+Prepared Ingredients,Digestive biscuits,5.0kg,2.0kg,1.0kg
+Chocolate Products,Chocolate,15.0kg,7.0kg,45.0kg
+Prepared Ingredients,Cream filling,10.0 liters,5.0 liters,10.0 liters
+Chocolate Products,Chocolate glaze,5.0 liters,2.0 liters,5.0 liters
+Spices And Herbs,Rosemary,500g,250g,500g
+Vegetables,Onions,30 onions,15 onions,60 onions
+Vegetables,Spinach,10.0kg,5.0kg,10.0kg
+Prepared Ingredients,Filling of choice,4.0kg,2.0kg,4.0kg

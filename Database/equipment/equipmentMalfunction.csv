@@ -1,0 +1,9 @@
+malfunctionID,report date,eqid,bakerID,issue,urgency level,status,resolution date,resolution comments
+M001,2023-12-05,E002,EMPB002,Unusual noise from Mixer B,High,Resolved,2023-12-07,Bearings replaced-functioning normally.
+M002,2023-12-15,E007,EMPB001,Proofer F heating inconsistently,Medium,Resolved,2023-12-20,Heating element fixed.
+M003,2024-01-10,E002,EMPB002,Minor leakage from Mixer B,Medium,Resolved,2024-01-12,Seal replaced-no further issues.
+M004,2024-01-25,E007,EMPB003,Proofer F not maintaining temperature,High,Resolved,2024-01-28,Temperature sensor replaced.
+M005,2024-02-02,E002,EMPB002,Unusual vibration from Mixer B,Medium,Resolved,2024-02-04,Vibration dampers adjusted.
+M006,2024-02-18,E007,EMPB003,Proofer F showing inconsistent heating,High,Resolved,2024-02-21,Control board recalibrated.
+M007,2024-09-07,E002,EMPB002,Intermittent power issues with Mixer B,High,In Progress,,Awaiting parts for power supply replacement.
+M008,2024-09-15,E008,EMPB001,Stove G flame control malfunction,Medium,Resolved,2024-09-17,Gas regulator replaced-functioning normally.

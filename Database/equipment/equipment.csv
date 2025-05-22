@@ -1,0 +1,9 @@
+eqid,eqname,model,purchased date,status,last_maintenance,next_maintenance
+E001,Oven A,OVEN-X100,2023-12-01,Operational,,
+E002,Mixer B,MIXER-A200,2023-12-01,Operational,2024-10-19,
+E003,Refrigerator C,FRIDGE-T20,2023-12-01,Operational,,
+E004,Oven B,OVEN-X150,2023-12-01,Operational,,
+E005,Blender D,BLENDER-R260,2023-12-02,Operational,,
+E006,Dough Sheeter E,DS-V100,2023-12-02,Operational,,
+E007,Proofer F,PROOFER-N100,2023-12-03,Operational,2024-01-30,
+E008,Stove G,STOVE-M100,2023-12-03,Operational,,
